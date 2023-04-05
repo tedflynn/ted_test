@@ -10,6 +10,11 @@ Test repo created for NCEAS coreR training on git and GitHub.
 -- Add a .gitignore file using the R template
 -- Set the LICENSE to Apache 2.0
 
+### Create a Git Repository from an Existing Project
+- In the File menu, select “New Project”
+- In the dialog that pops up, select the “Version Control” option, and paste the GitHub URL that you copied into the field for the remote repository Repository URL
+- While you can name the local copy of the repository anything, it’s typical to use the same name as the GitHub repository to maintain the correspondence
+
 ## Purpose
 The purpose of this repository is to:
 - create a remote repo on GitHub 
